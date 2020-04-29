@@ -8,7 +8,7 @@ export class AppHeader extends Component{
         return(
             <Header
                 placement="left"
-                centerComponent={{ text: this.props.page_title, style: { color: '#fff' } }}
+                centerComponent={{ text: this.props.page_title, style: { color: '#0da935' } }}
                 rightComponent={{ icon: 'home', color: '#fff' }}
             />
         )
