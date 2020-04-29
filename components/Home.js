@@ -36,6 +36,8 @@ class Home extends Component {
         });
     }
 
+
+    
     render() {
         let { coronafaqs, page_title } = this.state;
         let sections = this.getSections();
