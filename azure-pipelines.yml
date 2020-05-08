@@ -8,7 +8,7 @@ name: $(date:yyyy).$(Month)$(rev:.r)
 
 steps:
 
-- script: yarn install
+- script: npm install
 
 - task: Gradle@2
   inputs:
@@ -23,7 +23,7 @@ steps:
 - task: AndroidSigning@3
   inputs:
     apkFiles: '**/*.apk'
-    apksignerKeystoreFile: 'my-upload-key.keystore'
+    apksignerKeystoreFile: 'gchikafa.keystore'
     apksignerKeystorePassword: '$(KeyStorePassword)'
     apksignerKeystoreAlias: '$(KeyAlias)'
     apksignerKeyPassword: '$(KeyPassword)'
