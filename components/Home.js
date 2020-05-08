@@ -2,25 +2,56 @@ import React, { Component } from 'react';
 
 import { Colors } from './views/Colors';
 import faqs from '../data/coronafaqs.json';
+import faqsSwed from '../data/coronafaqs-swedish.json';
 import Section from './Section';
 import { AppHeader } from './views/AppHeader'
 import { View, FlatList, StyleSheet, Text } from 'react-native';
 import CustomRow from './views/CustomRow';
 import { ScrollView } from 'react-native-gesture-handler';
+import { Languages } from './Languages';
+
 
 
 class Home extends Component {
     constructor(props) {
         super(props);
         this.state = {
-            coronafaqs: faqs,
-            page_title: "COVID19-FAQ"
+            showNotice: true,
         }
+    }
+
+    toggleNotice = (language) => {
+        if(language != Languages.SWEDISH){
+            
+        }
+    }
+
+    getLanguageFaqs = () => {
+        let coronafaqs = faqsSwed; //default is swedish
+        if(this.props.route.params != undefined){
+            if(this.props.route.params.language == Languages.ENGLISH){
+                coronafaqs = faqs;
+            }
+        }
+        return coronafaqs;
+    }
+
+    getCurrentLanguage = () => {
+        let language = Languages.SWEDISH;
+        if(this.props.route.params != undefined){
+            if(this.props.route.params.language == Languages.ENGLISH){
+                language = Languages.ENGLISH;
+            }
+        }
+
+        return language;
     }
 
     getSections = () => {
         let sections = [];
-        for (section of this.state.coronafaqs) {
+        let coronafaqs = this.getLanguageFaqs();
+
+        for (section of coronafaqs) {
             let title = section.section;
             sections.push({ section: title, id: section.id });
         }
@@ -29,17 +60,17 @@ class Home extends Component {
     }
 
     sectionPress = id => {
-        let section_faqs = this.state.coronafaqs.filter((section) => section.id === id);
+        let section_faqs = this.getLanguageFaqs().filter((section) => section.id === id);
 
         this.props.navigation.navigate("SectionQuestions", {
-            data: section_faqs[0]
+            data: section_faqs[0],
+            language: this.getCurrentLanguage()
         });
     }
 
     render() {
-        let { coronafaqs, page_title } = this.state;
         let sections = this.getSections();
-
+        console.log(this.props.route);
         return (
             <ScrollView contentContainerStyle={{ flexGrow: 1 }}>
                 <View style={styles.container}>
@@ -53,7 +84,6 @@ class Home extends Component {
                     </View>
                 </View>
             </ScrollView>
-
         );
     }
 }

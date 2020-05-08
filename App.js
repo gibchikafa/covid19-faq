@@ -1,53 +1,52 @@
 import 'react-native-gesture-handler';
+import {Linking} from 'react-native'
 import React, { Component } from 'react';
-import {NavigationContainer} from '@react-navigation/native';
-import {createStackNavigator} from '@react-navigation/stack';
+import { NavigationContainer } from '@react-navigation/native';
+import { createStackNavigator } from '@react-navigation/stack';
 import Home from './components/Home';
 import SectionQuestions from './components/SectionQuestions'
+import LanguageOptions from './components/LanguageOptions'
 import Colors from './components/views/Colors'
-import { Image,Animated,Easing } from 'react-native';
+import { withTheme } from 'react-native-elements';
+import { Languages } from './components/Languages';
 
-
-
-const transitionConfig = () => {
-  return {
-    transitionSpec: {
-      duration: 500,
-      easing: Easing.out(Easing.poly(4)),
-      timing: Animated.timing,
-      useNativeDriver: true,
-    },
-    screenInterpolator: sceneProps => {
-      const { layout, position, scene } = sceneProps;
- 
-      const thisSceneIndex = scene.index;
-      const width = layout.initWidth;
- 
-      const translateX = position.interpolate({
-        inputRange: [thisSceneIndex - 1, thisSceneIndex],
-        outputRange: [-width, 0],
-        extrapolate: 'clamp'
-      });
- 
-      return {
-        transform: [{ translateX }]
-      }
-    }
-  }
-}
 
 const Stack = createStackNavigator();
 
-function LogoTitleRight() {
-  return (
-    <Image
-      style={{ width: 50, height: 50,borderRadius:50/2,marginRight:10, }}
-      source={require('./components/views/sweden.png')}
-    />
-  );
-}
+class App extends Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      modalVisible: false,
+      showNotice:true,
+      language: Languages.SWEDISH
+    }
+  }
 
-export default class App extends Component {
+  ToggleNotice = (language,navigation) => {
+    if (language != Languages.SWEDISH) {
+      this.setState({ showNotice:false, language:language });
+
+      navigation.navigate("Home", { language: language});
+    }
+    else{
+      this.setState({ showNotice:false});
+    }
+  }
+
+  ShowModal = () => {
+    this.setState({ modalVisible: true });
+  }
+
+  ToggleModal = (language, navigation) => {
+    const visible = this.state.modalVisible;
+    this.setState({ language: language, modalVisible: !visible });
+
+    if (language != this.state.language) {
+      navigation.navigate("Home", { language: language });
+    }
+  }
+
   render() {
     return (
       <NavigationContainer>
@@ -61,19 +60,28 @@ export default class App extends Component {
             headerTitleStyle: {
               fontWeight: 'bold',
             },
-            headerRight: props => <LogoTitleRight {...props} />,
+            headerRight: () => <LanguageOptions
+              showModal={this.ShowModal}
+              toggleModal={this.ToggleModal}
+              language={this.state.language}
+              modalVisible={this.state.modalVisible}
+              showNotice={this.state.showNotice}
+              toggleNotice={this.ToggleNotice}
+            />,
           }}
         >
           <Stack.Screen
             name="Home"
             component={Home}
           />
-          <Stack.Screen 
-            name="SectionQuestions" 
-            component={SectionQuestions} 
+          <Stack.Screen
+            name="SectionQuestions"
+            component={SectionQuestions}
           />
         </Stack.Navigator>
       </NavigationContainer>
     );
   }
 }
+
+export default App;

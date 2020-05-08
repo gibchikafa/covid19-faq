@@ -10,5 +10,6 @@ export const Colors = {
     LIGHTGRAY: '#C7C7C7',
     DARKGRAY: '#5E5E5E',
     CGRAY: '#ececec',
-    OFFLINE_GRAY: '#535353'
+    OFFLINE_GRAY: '#535353',
+    RED: '#8C0202'
 }

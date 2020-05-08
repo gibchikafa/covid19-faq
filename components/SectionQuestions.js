@@ -3,13 +3,14 @@ import Accordian from './Accordian'
 import { View, FlatList, StyleSheet, Text } from 'react-native';
 import { Colors } from './views/Colors'
 import { ScrollView } from 'react-native-gesture-handler';
-import faqs from '../data/coronafaqs.json';
+import { Languages } from './Languages';
 
 class SectionQuestions extends Component {
     constructor(props) {
         super(props);
         this.state = {
-            data: this.props.route.params.data
+            data: this.props.route.params.data,
+            language: this.props.route.params.language
         }
     }
 
@@ -19,7 +20,7 @@ class SectionQuestions extends Component {
             <ScrollView contentContainerStyle={{ flexGrow: 1 }}>
                 <View style={styles.container}>
                     <View style={{ flex: 1 }}>
-                        <Text style={styles.sectionHeader}>Section: {section}</Text>
+                        <Text style={styles.sectionHeader}>{this.sectionText()}: {section}</Text>
                         {this.renderAccordians(faqs)}
                     </View>
                 </View>
@@ -38,6 +39,14 @@ class SectionQuestions extends Component {
             );
         });
         return all_questions;
+    }
+
+    sectionText(){
+        if(this.state.language == Languages.ENGLISH){
+            return "Section";
+        }
+
+        return "Sektion";
     }
 }
 

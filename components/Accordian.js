@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { View, TouchableOpacity, Text, StyleSheet } from "react-native";
+import { View, TouchableOpacity, Text, StyleSheet, Linking} from "react-native";
 import { Colors } from './views/Colors';
 import Icon from "react-native-vector-icons/MaterialIcons";
 
@@ -25,7 +25,7 @@ export default class Accordian extends Component {
                 {
                     this.state.expanded &&
                     <View style={styles.child}>
-                        <Text>{this.props.answer}</Text>
+                        <Text>{this.parseAnswer(this.props.answer)}</Text>
                     </View>
                 }
             </View>
@@ -36,8 +36,34 @@ export default class Accordian extends Component {
         this.setState({ expanded: !this.state.expanded })
     }
 
-}
 
+    parseAnswer = (answer) => {
+        let answer_parts = answer.split("statlink");
+        if (answer_parts.length == 1) {
+            return [<Text>{answer}</Text>];
+        }
+        else {
+            let j = 0;
+            let full_answer = [];
+
+            while (j < answer_parts.length) {
+                if (answer_parts[j].startsWith("=")) {
+                    let link_parts = answer_parts[j].split("*");
+
+                    let link = <Text style={{ color: 'blue' }} onPress={() => Linking.openURL(link_parts[0].replace("=", ""))}>{link_parts[1]}</Text>
+                    full_answer.push(link);
+                }
+                else {
+                    full_answer.push(<Text>{answer_parts[j]}</Text>)
+                }
+
+                j++;
+            }
+
+            return full_answer;
+        }
+    }
+}
 const styles = StyleSheet.create({
     title: {
         fontSize: 14,

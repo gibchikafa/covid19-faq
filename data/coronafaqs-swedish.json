@@ -1,0 +1,448 @@
+[
+   {
+      "section": "Viruset och sjukdomen",
+      "faqs": [
+         {
+            "question": "Vad är coronavirus?",
+            "answer": "\nDet finns ett stort antal virus som tillhör coronavirusfamiljen, de flesta finns hos olika djurarter. Endast ett fåtal virustyper kan smitta mellan djur och människor. Det finns idag sju coronavirus som kan smitta och ge upphov till sjukdom hos människor. Fyra av dessa virus är vanliga och orsakar förkylning. Varianterna SARS- och MERS-coronavirus orsakar betydligt allvarligare luftvägssjukdom. I slutet av 2019 upptäcktes ett nytt coronavirus i Kina som kan smitta människor. Sjukdomen som det nya viruset ger upphov till kallas covid-19.\nstatlink=https://www.folkhalsomyndigheten.se/smittskydd-beredskap/smittsamma-sjukdomar/coronavirus/*Läs mer om sjukdomsinformation om coronavirusstatlink.\n",
+            "id": 1
+         },
+         {
+            "question": "Vad är covid-19?",
+            "answer": "\nCovid-19 är det officiella namnet för sjukdomen som orsakas av det nya coronaviruset SARS-CoV-2 (SARS-coronavirus-2). Covid-19 står för coronavirus disease 2019.\n",
+            "id": 2
+         },
+         {
+            "question": "Vad skiljer covid-19 från säsongsinfluensa?",
+            "answer": "\nDet är svårt att jämföra en helt ny sjukdom, exempelvis covid-19, med säsongsinfluensa. Sammanfattningsvis kan man säga, utifrån vad vi vet idag, att de liknar varandra på många sätt med liknande symtom. De allra flesta blir lindrigt sjuka, men en liten grupp får en mycket allvarlig sjukdom och dödsfall förekommer för både säsongsinfluensa och covid-19.\nDäremot kommer covid-19 drabba betydligt fler i en befolkning där den sprider sig. Den snabba och breda smittspridningen beror på att ingen i befolkningen har hunnit utveckla immunitet (ett skydd) mot denna nya virusvariant. Man kommer att se fler sjuka och fler som behöver sjukhusvård.\nSäsongsinfluensan som återkommer varje år, har däremot cirkulerat i samhället under en lång tid. Därför har skyddet mot olika varianter av influensavirus kunnat byggas upp i befolkningen. Dessutom finns vaccin och läkemedel mot säsongsinfluensan\n",
+            "id": 3
+         },
+         {
+            "question": "Vilka är symtomen på covid-19?",
+            "answer": "\nSjukdomen är hos de flesta en luftvägsinfektion och en rad olika symtom kan förekomma. Man kan inte baserat på bara symtomen avgöra om det är covid-19 eller annan infektion. För det krävs ett test som analyseras i laboratorium.\nBland de symtom som rapporterats är framförallt:\nEn person som insjuknar i covid-19 kan uppvisa ett eller flera av dessa symtom. Det är ganska vanligt att man förlorar luktsinnet, och därmed smaksinnet, under en tid i samband med infektion i de övre luftvägarna. Även diarré har omnämnts.\nDe flesta får lindriga besvär som kan komma gradvis, och som går över av sig själva med egenvård i hemmet. En del blir allvarligt sjuka med exempelvis svårigheter att andas och lunginflammation.\nListan över symtom kan komma att justeras efterhand. Vi uppdaterar informationen om covid-19 i takt med att ny kunskap om sjukdomen tillkommer, i den vetenskapliga litteraturen och/eller från WHO.\nTiden från det att man smittats till dess man blir sjuk (inkubationstiden) bedöms vara 2–14 dagar, de flesta insjuknar efter ca 5 dagar.\nDet är mycket viktigt att stanna hemma när du känner dig sjuk. Om du inte klarar dig med egenvård i hemmet ska du ringa telefonnummer statlink=tel:1177*1177statlink för sjukvårdsrådgivning.\n",
+            "id": 4
+         },
+         {
+            "question": "Hur vet jag om mina symtom beror på pollenallergi eller på covid-19?",
+            "answer": "\nBåde covid-19 och pollenallergi kan ge milda förkylningssymtom. Därför är det svårt att till en början bedöma om dina symtom beror på allergi eller om du smittats av sjukdomen.\nSe till att stanna hemma även om du får milda symtom som snuva, lätt hosta eller ont i halsen. Medicinera som vanligt för din allergi. Om symtomen inte förvärras, medicineringen hjälper och du bedömer att dina symtom sannolikt beror på allergi behöver du inte vara hemma.\nTillkommer nya symtom som du inte kopplar till din allergi eller om du får feber, ska du stanna hemma tills dessa symtom försvinner och ytterligare två dagar.\n",
+            "id": 5
+         },
+         {
+            "question": "Hur smittar covid-19?",
+            "answer": "\nCoronaviruset (SARS-CoV-2) som orsakar sjukdomen covid-19 smittar i första hand mellan människor genom så kallad droppsmitta. Det vill säga att smitta överförs till slemhinna i ögon, näsa eller mun från droppar som sprids i luften när en sjuk person hostar eller nyser. Dropparna faller snabbt ner genom luften och når som regel inte längre än någon meter.\nViruset kan också överföras via förorenade ytor, så kallad indirekt kontaktsmitta. Man kan därför inte utesluta att smitta sker även från föremål. Det är dock ännu inte klarlagt hur länge viruset kan överleva på ytor och föremål. Material och förhållanden så som luftfuktighet, temperatur och solljus påverkar hur länge viruset överlever. Fortsatta studier får visa om spridning via ytor och föremål har någon betydelse för spridningen av covid-19.\nGenom att vara noga med att hålla avstånd till andra människor i offentliga miljöer, tvätta händerna ofta med tvål och varmt vatten, hosta och nysa i armvecket, undvika att röra vid ansiktet (ögon, näsa, mun), samt att stanna hemma när man är sjuk kan alla bidra till att minska risken för smittspridning.\nLäs mer: statlink=https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/skydda-dig-och-andra/*Skydda dig själv och andra från smittspridningstatlink\n",
+            "id": 6
+         },
+         {
+            "question": "Hur lång är inkubationstiden?",
+            "answer": "\nInkubationstiden, det vill säga perioden från smittotillfället till dess att en person uppvisar symtom, bedöms vanligtvis vara 2–14 dagar. De flesta insjuknar cirka 5 dagar efter att man smittats, även om enstaka fall kan avvika från dessa mönster.\n",
+            "id": 7
+         },
+         {
+            "question": "Hur sjuk blir man av covid-19?",
+            "answer": "\nDe allra flesta som har smittats, blir lindrigt sjuka med luftvägssymtom som går över av sig själva, men vissa drabbas av allvarligare sjukdom som lunginflammation. Kunskapen om viruset utvecklas hela tiden.\n",
+            "id": 8
+         },
+         {
+            "question": "Hur länge är man sjuk av covid-19?",
+            "answer": "\nDe flesta personer som får lindriga sjukdomssymtom (feber och hosta) blir friska efter två veckor. För de som blir allvarligt sjuka tar det mellan tre och sex veckor innan de är friska igen.\nDe som blir allvarligt sjuka har andningssvårigheter (snabb andning och låg syresättning av blodet). En del av dem behöver intensivvård, till exempel med respirator. Dessa allvarliga symtom kommer vanligen en vecka efter insjuknandet.\nDen kunskap vi har om hur länge covid-19 varar, kommer från WHO:s rapport statlink=https://www.who.int/publications-detail/report-of-the-who-china-joint-mission-on-coronavirus-disease-2019-(covid-19)*Report of the WHO-China Joint Mission on Coronavirus Disease 2019 (COVID-19)statlink.\n",
+            "id": 9
+         },
+         {
+            "question": "Hur många blir friska från covid-19?",
+            "answer": "\nMajoriteten av de som smittats blir friska förutom en mycket liten andel personer som kan bli allvarligt sjuka, varav de flesta tillhör någon riskgrupp. Det finns inte några uppgifter om kvarvarande kroniska tillstånd.\n",
+            "id": 10
+         },
+         {
+            "question": "Hur stor är dödligheten till följd av covid-19?",
+            "answer": "\nUppskattningarna när det gäller dödlighet är fortfarande osäkra för covid-19. WHO uppskattar i dagsläget att dödligheten är 1–2 procent av de redan infekterade. Den siffran baseras på statlink=https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov*internationella studierstatlink.\nErfarenheten visar att nya sjukdomar brukar ha en omfattande underrapportering. Det kan finnas fler fall i de drabbade områdena än vad som har rapporterats i inledningsskedet, vilket kan innebära att dödligheten kommer att sjunka.\n",
+            "id": 11
+         },
+         {
+            "question": "Kan man smittas flera gånger av det nya coronaviruset?",
+            "answer": "\nDet är oklart hur länge man kommer att vara immun. Utifrån tidigare erfarenheter så är bedömningen att immuniteten varar så länge att man inte kommer att smittas fler gånger under en och samma säsong.\n",
+            "id": 12
+         },
+         {
+            "question": "Finns det några särskilda riskgrupper?",
+            "answer": "\nVissa grupper rapporteras ha ökad risk för allvarligare symtom vid smitta. Eftersom viruset är nytt vet vi fortfarande inte tillräckligt om vilka grupper som riskerar svår sjukdom. En genomgång av tillgängliga studier av covid-19 visar dock att hög ålder är den främsta riskfaktorn och personer över 70 år utgör därmed den främsta riskgruppen.\nPersoner med hög ålder i kombination med underliggande sjukdomar, såsom högt blodtryck, hjärt- kärlsjukdom, lungsjukdom, fetma och diabetes är överrepresenterade bland de svåra fallen. Extra utsatta för att drabbas av allvarlig sjukdom är personer med flera underliggande sjukdomar.\nDet är möjligt att personer med sjukdom eller medicinsk behandling som påverkar immunförsvaret också har ökad risk för ett allvarligare sjukdomsförlopp. Om du har en sjukdom som generellt innebär ökad risk för allvarlig sjukdom vid luftvägsinfektioner, även om du är yngre än 70 år, bör du rådgöra med behandlande läkare kring behandling och vad du kan göra för att minska risken kopplad till sjukdomen covid-19.\nStudierna visar inte att personer med astma, eller njursjukdom är riskgrupper för covid-19. Det är dock oklart i vilken utsträckning dessa grupper har studerats och därmed är det svårt att helt utesluta att personer med de här sjukdomarna inte har ökad risk.\nGraviditet i sig verkar inte innebära någon ökad risk för allvarlig sjukdom vid covid-19 men en luftvägsinfektion kan vara särskilt besvärligt i slutet av graviditeten och det är då extra viktigt att försöka undvika att smittas. Risken för allvarlig sjukdom kan öka i kombination med andra riskfaktorer som t ex fetma, högt blodtryck eller diabetes.\nBarn har mycket liten risk för att bli allvarligt sjuka, även de som har någon av de tillstånd eller sjukdomar som ökar risken för vuxna och äldre personer.\nNy information tillkommer kontinuerligt och Folkhälsomyndigheten bevakar utvecklingen och uppdaterar sin information enligt den senast tillgängliga kunskapen.\nLäs mer: \nstatlink=https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/rad-och-information-till-riskgrupper/*Information till riskgrupper om covid-19statlink\nstatlink=https://www.socialstyrelsen.se/aktuellt/rapportering-av-uppdrag-om-riskgrupper-kopplat-till-covid-19/*Rapportering av uppdrag om riskgrupper kopplat till covid-19 (Socialstyrelsen)statlink\n",
+            "id": 13
+         },
+         {
+            "question": "Ger rökning ett svårare sjukdomsförlopp vid covid-19?",
+            "answer": "\nKunskapsläget om samband mellan tobaksrökning och hur svårt sjuk man blir vid covid-19 är fortfarande oklart. Tillgängliga studier visar att personer som röker eller som har rökt är överrepresenterade bland de svåra fallen av covid-19. Studierna är få och av osäker kvalitet, därför behövs mer kunskap.\nVi vet sedan tidigare att tobaksrökning ökar risken för allvarliga symtom vid luftvägsinfektioner som till exempel influensa.\nAtt sluta röka ger hälsovinster redan efter en kort tid. Som exempel kan nämnas ökad syresättning, lägre blodtryck och förbättrad lungfunktion. Vill du ha hjälp att sluta röka finns stöd att få till exempel hos Sluta-Röka-Linjen, 020-84 00 00.\nFolkhälsomyndigheten bevakar utvecklingen och uppdaterar informationen enligt den senast tillgängliga kunskapen.\n",
+            "id": 14
+         },
+         {
+            "question": "Jag känner mig orolig för det nya coronaviruset, hur ska jag hantera min oro?",
+            "answer": "\nAlla reagerar olika i oroliga tider. Att känna stress, oro och rädsla är naturliga reaktioner vid en kris. Om du känner dig mycket orolig, inte kan sova eller om du inte kan släppa tankarna på viruset, finns det saker som du kan göra för att hantera din oro eller stress:\nstatlink=https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/skydda-dig-och-andra/om-du-kanner-oro-for-coronaviruset/*Läs mer om hur du kan hantera din oro kopplat till det nya coronaviruset härstatlink\nDet finns flera organisationer som erbjuder stöd via telefon, chatt eller mejl, om du vill prata med någon utomstående om din oro eller ångest. Här hittar du länkar till dem:\nstatlink=https://www.1177.se/Stockholm/liv--halsa/psykisk-halsa/att-soka-stod-och-hjalp/rad-och-stod-pa-chatt-och-telefon/*Stödlinjer via telefon, chatt och mejl (1177)statlink\nstatlink=https://www.umo.se/att-ta-hjalp/hit-kan-du-ringa-maila-eller-chatta/hjalp-om-du-mar-daligt/*Stödlinjer för dig som är barn eller ungdom (UMO)statlink\nstatlink=https://mind.se/hitta-hjalp/aldrelinjen/*Äldrelinjen (MIND)statlink\n",
+            "id": 15
+         },
+         {
+            "question": "Jag har förlorat en närstående och känner djup sorg. Vad kan jag göra?",
+            "answer": "\nAtt känna sorg när man har förlorat någon är naturligt. Sorgen pågår ofta under lång tid, men den har olika faser. I den första fasen kan känslorna vara mycket intensiva och svåra att hantera. Det är vanligt att känna t.ex. förtvivlan, ilska och skuld. I senare faser blir sorgen mindre plågsam och det brukar kännas lättare att fortsätta med sitt vardagsliv och planera inför framtiden. Under sorgen är det viktigt att du tillåter dig att känna. Försök att hålla dina rutiner när det gäller t.ex. mat och sömn. Prata gärna med  någon som du känner dig trygg med.\nOm du behöver mer stöd kan du vända dig till vården. Det finns också stödlinjer du kan ringa. Läs mer om statlink=https://www.1177.se/Stockholm/liv--halsa/psykisk-halsa/sorg-nar-nagon-har-dott/*sorg, hur den kan yttra sig och hur du kan hantera den på 1177.sestatlink.\n",
+            "id": 16
+         },
+         {
+            "question": "Vad finns det för rekommendationer till gravida?",
+            "answer": "\nFör närvarande finns det begränsad information om covid-19 och graviditet. Det finns hittills inget som tyder på att graviditet i sig innebär en särskild risk för att bli allvarligt sjuk med covid-19.\nDäremot kan risken för allvarlig sjukdom öka i kombination med andra riskfaktorer som t ex fetma, högt blodtryck eller diabetes. Därför bör gravida som har någon av dessa riskfaktorer vara försiktiga och rådgöra med sin barnmorska eller läkare och begränsa sina nära kontakter med människor utanför hushållet så mycket som möjligt.\nDet är också viktigt att undvika att bli smittad inför förlossningen eftersom en luftvägsinfektion i slutet av graviditeten kan vara besvärlig och kan innebära risker för den gravida kvinnan. Vi rekommenderar därför att gravida kvinnor vidtar försiktighetsåtgärder mot smitta inför förlossningen.\nDet finns få rapporter om barn som blivit smittade eller allvarligt sjuka under graviditet eller förlossning. Studier har hittills inte påvisat viruset i bröstmjölk.\nInformation finns också på statlink=https://www.medscinet.se/infpreg/*Kunskapscentrum för infektioner under graviditetstatlink.\n",
+            "id": 17
+         },
+         {
+            "question": "Vad gäller för användning av munskydd utanför vården?",
+            "answer": "\nMunskydd behövs inte i vanliga situationer ute i samhället, då är det bättre att hålla avstånd till andra människor och att vara noga med att tvätta händerna.\nLäs mer om hur du statlink=https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/skydda-dig-och-andra/*skyddar dig själv och andra från smittspridningstatlink.\n",
+            "id": 18
+         },
+         {
+            "question": "Varför gör länder olika när det gäller munskydd?",
+            "answer": "\nDet vetenskapliga underlaget är svagt när det gäller hur effektivt munskydd är mot smittspridning varför olika länder har landat olika i sina rekommendationer.\nNågra har valt att se munskydd som en trygghet och hoppas att man med universell användning av munskydd minskar risken för spridning från personer som är i insjuknandefasen innan symtom framträtt tydligt eller har så milda och ospecifika symtom att man inte ser sig själv som sjuk.\nFolkhälsomyndigheten avstår från att rekommendera allmänheten munskydd då ett munskydd som kliar och åker ner under näsan bidrar till att händerna ofta rör mun, ögon och näsa vilket kan öka risken för smittspridning.\nstatlink=https://www.who.int/news-room/q-a-detail/q-a-on-covid-19-and-masks*Se WHO:s frågor och svarstatlink\n",
+            "id": 19
+         }
+      ],
+      "id": 1
+   },
+   {
+      "section": "Statistik",
+      "faqs": [
+         {
+            "question": "Hur många är sjuka i Sverige?",
+            "answer": "\nAktuell statistik över antalet bekräftade fall av covid-19, både i Sverige och globalt, finns på vår webbsida om statlink=https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/bekraftade-fall-i-sverige/*Antal fall av covid-19statlink. Antalet bekräftade och misstänkta fall förändras ständigt, allteftersom personer söker vård och undersöks för viruset.\nFram till den 12 mars 2020 gjorde man provtagningar och smittspårningar av alla misstänkta fall bland resande från riskområden till Sverige. Från och med den 13 mars 2020 prioriterar sjukvården provtagning av följande två grupper:\nDet betyder att antalet rapporterade fall är lägre från den 13 mars, och att siffrorna före och efter den förändrade provtagningsrutinen inte är jämförbara.\nDenna sjukdom där många har mycket milda symtom medför en omfattande underrapportering. Det finns alltså betydligt fler fall än vad som har rapporterats. Punktinsatser görs för att undersöka hur sjukdomen är spridd i landet, till exempel testas insamlade influensaprover även för covid-19.\nJust nu är målet med att samla in data, att få kunskap om hur sjukdomen sprids i landet och hur den belastar sjukvården.\n",
+            "id": 1
+         },
+         {
+            "question": "Hur många har avlidit i Sverige i covid-19?",
+            "answer": "\nAntalet personer som har avlidit i Sverige i sjukdomen covid-19, redovisas på vår webbsida statlink=https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/bekraftade-fall-i-sverige/*Antal fall av covid-19.statlink Sidan uppdateras varje dag. Det förekommer en viss fördröjning i rapporteringen och kompletteringen av uppgifterna om antalet avlidna.\n",
+            "id": 2
+         }
+      ],
+      "id": 2
+   },
+   {
+      "section": "Provtagning, vaccin och behandling",
+      "faqs": [
+         {
+            "question": "Vilka personer bör testas för det nya coronaviruset?",
+            "answer": "\nSjukvården prioriterar provtagning för följande två grupper:\nSyftet är att skydda de mest utsatta grupperna i samhället från smitta.\nAlla som är sjuka i förkylning eller influensaliknande symtom ska vara hemma för att inte riskera att sprida smittan vidare till andra. Denna grupp prioriteras inte för provtagning.\nDet är smittskyddsläkaren i varje region som vid behov samordnar regionala och lokala anpassningar av provtagningar.\n",
+            "id": 1
+         },
+         {
+            "question": "Hur gör ni för att mäta förekomsten av covid-19 i samhället?",
+            "answer": "\nVi genomför nu en ny undersökning för att mäta förekomsten av covid-19 i Sverige. Omkring 4000 personer i hela landet tillfrågas under vecka 14 om de vill delta i provtagningen. Det är helt frivilligt att delta.\nUndersökningen är ett sätt att få information om hur många i samhället som kan vara smittade med covid-19. Eftersom de som har milda sjukdomssymtom uppmanas att stanna hemma, är det annars framförallt personer med svåra symtom som testas när de läggs in på sjukhus.\nDet går inte att anmäla sig till undersökningen. Deltagarna väljs ut slumpvis från en panel. Resultaten väntas vara klara i början av maj. En liknande, mindre undersökning har gjorts i Stockholm.\nLäs mer: statlink=https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2020/mars/undersokning-for-att-mata-forekomsten-av-covid-19-i-samhallet/*Undersökning för att mäta förekomsten av covid-19 i samhälletstatlink (nyhet 7 april)\n",
+            "id": 2
+         },
+         {
+            "question": "Finns det tester som visar om man har haft covid-19?",
+            "answer": "\nDet pågår utveckling av så kallade serologiska tester som kan användas för att undersöka om en person har varit infekterad av det nya coronaviruset. I sådana tester analyseras förekomsten av särskilda antikroppar i blodet.\nVi arbetar för närvarande med att ta fram rekommendationer för hur denna typ av testar ska valideras liksom hur resultaten ska bedömas utifrån aktuellt kunskapsläge När tester blir tillgängliga kommer de i första hand att användas till personal inom vård och omsorg.\nDessa tester är inte positiva i den akuta sjukdomsfasen utan kan endast påvisa om man har, eller har haft, covid-19 efter det att man varit sjuk en period.\n",
+            "id": 3
+         },
+         {
+            "question": "Finns det självtester för covid-19?",
+            "answer": "\nDet finns självtester för covid-19 som tillverkare marknadsför för användning i hemmiljö. Vi rekommenderar inte dessa självtester i nuläget.\nAnledningen är att tillförlitligheten hos självtesterna är avsevärt lägre än hos sjukvårdens tester. Metoderna som används inom vården är nära hundraprocentiga i såväl sin exakthet som känslighet. Där används förutom provsvar också kliniska observationer, patienthistorik och epidemiologisk information för att ställa en tillförlitlig diagnos.\nEtt självtest kan på grund av låg känslighet, liksom om det är taget i fel fas i infektionsförloppet, visa att du inte har covid-19 trots att du i själva verket har det.\n",
+            "id": 4
+         },
+         {
+            "question": "Finns det vaccin eller behandling mot covid-19?",
+            "answer": "\nDet finns i nuläget inget vaccin eller godkänt läkemedel mot covid-19. Den behandling som ges vid svårare sjukdom är inriktad på att stödja funktionen hos lungor och eventuellt andra påverkade organ.\nDet pågår ett arbete, både internationellt och i Sverige, för att undersöka olika typer av läkemedelsbehandlingar och för att försöka ta fram ett vaccin. I det arbetet deltar även statlink=https://www.lakemedelsverket.se/sv/behandling-och-forskrivning/coronavirus*Läkemedelsverketstatlink i samarbete med läkemedelsmyndigheter i Europa och andra länder.\n",
+            "id": 5
+         },
+         {
+            "question": "Kan vaccin mot pneumokocker ge skydd mot covid-19?",
+            "answer": "\nNej, pneumokockvaccin ger enbart skydd mot sjukdomar som orsakas av vissa typer av pneumokocker. Det minskar därför inte risken för att få sjukdomen covid-19. Lunginflammation, som även en del av dem som insjuknat i covid-19 drabbats av, orsakas i dessa fall av det nya coronaviruset, inte av pneumokocker.\n",
+            "id": 6
+         },
+         {
+            "question": "Kan vaccin mot tuberkulos, sk BCG-vaccin, ge skydd mot covid-19?",
+            "answer": "\nNej, det finns inga tecken på att tuberkulosvaccinet, BCG, skyddar människor mot infektion med covid-19. Två kliniska studier som undersöker detta pågår nu. WHO kommer granska och utvärdera studieresultaten när dessa är färdigställda.\nstatlink=https://www.folkhalsomyndigheten.se/smittskydd-beredskap/vaccinationer/vacciner-a-o/tuberkulos-tb/*Läs mer om vaccin mot tuberkulos (TB)statlink\n",
+            "id": 7
+         }
+      ],
+      "id": 3
+   },
+   {
+      "section": "Smittspridning",
+      "faqs": [
+         {
+            "question": "Kan man bli smittad av en person som har covid-19 men som inte har några symtom?",
+            "answer": "\nCoronaviruset (SARS-CoV-2) som orsakar sjukdomen covid-19 smittar i första hand mellan människor genom så kallad droppsmitta. Det betyder att smittan överförs till slemhinnorna i ögon, näsa eller mun från droppar som sprids i luften när en sjuk person hostar eller nyser. Dropparna faller snabbt ner genom luften och når som regel inte längre än någon meter.\nDet finns rapporter om att personer utan symtom har smittat andra personer. Men det finns få studier som beskriver hur smittsam man är, och om detta utgör en betydande del av smittspridningen i samhället. Utifrån den erfarenhet som finns just nu, av covid-19 och andra liknande sjukdomar, är bedömningen att smittspridningen från personer utan symtom står för en mycket begränsad andel.\nDetta betyder att det är viktigt att begränsa smittspridningen från de med symtom för att smittspridningen i samhället ska gå långsammare. Att uppnå detta är ett av målen med vårt arbete på Folkhälsomyndigheten.\n",
+            "id": 1
+         },
+         {
+            "question": "Hur länge kan viruset som orsakar covid-19 överleva utanför människokroppen?",
+            "answer": "\nDet är ännu inte helt klarlagt hur länge viruset kan överleva utanför kroppen. Forskningsstudier som utförts på närbesläktade coronavirus visar att de kan överleva flera dagar på ytor och föremål men för detta krävs särskilda förhållanden. Överlevnaden påverkas exempelvis av temperatur, solljus och luftfuktighet. Coronaviruset är särskilt känsligt för uttorkning. Mängden virus påverkar också hur länge en yta eller ett föremål utgör en risk för smitta. Studierna är främst utförda i laboratorier med kontrollerad luftfuktighet och temperatur och är därför inte jämförbara med miljöer ute i samhället.\nEn nyligen utförd studie i vårdmiljö, där patienter med covid-19 isolerats, visar att spår av virus fanns på ytor och föremål i den miljön. Fortsatta studier får utvisa om så kallad indirekt kontaktsmitta, det vill säga spridning via droppar som landat på ytor eller föremål, har någon betydelse för spridningen av covid-19.\nDet är alltid viktigt att ha god handhygien och att vara noga med att tvätta händerna med tvål och vatten. Då minskar risken för smitta. Om möjligheten till handtvätt är begränsad kan handsprit vara ett alternativ.\n",
+            "id": 2
+         },
+         {
+            "question": "Smittar covid-19 via sedlar och mynt?",
+            "answer": "\nDet finns inga uppgifter om att personer har smittats via sedlar eller mynt. Coronaviruset (SARS-CoV-2) som orsakar sjukdomen covid-19 smittar i första hand mellan människor genom så kallad droppsmitta. Det betyder att smittan överförs till slemhinnorna i ögon, näsa eller mun från droppar som sprids i luften när en sjuk person hostar eller nyser.\nSå här kan du undvika att bli smittad och att smitta andra:\n",
+            "id": 3
+         },
+         {
+            "question": "Kan viruset smitta till människa via post och paket?",
+            "answer": "\nDet finns i inga uppgifter om att personer har smittats via paket och postförsändelser. Coronaviruset (SARS-CoV-2) som orsakar sjukdomen covid-19 smittar i första hand mellan människor genom så kallad droppsmitta. Det betyder att smittan överförs till slemhinnorna i ögon, näsa eller mun från droppar som sprids i luften när en sjuk person hostar eller nyser.\nSå här kan du undvika att bli smittad och att smitta andra:\n",
+            "id": 4
+         },
+         {
+            "question": "Smittar covid-19 via vatten och mat?",
+            "answer": "\nDet finns i inga uppgifter om att personer har smittats genom att ha ätit mat eller druckit vatten. Coronaviruset (SARS-CoV-2) som orsakar sjukdomen covid-19 smittar i första hand mellan människor genom så kallad droppsmitta. Det betyder att smittan överförs till slemhinnorna i ögon, näsa eller mun från droppar som sprids i luften när en sjuk person hostar eller nyser. Det är inte heller troligt att covid-19 sprids via bassängvatten eller annat badvatten.\nTvätta händerna ofta med tvål och varmt vatten: före måltider, före mathantering och efter ett toalettbesök. Handsprit kan vara ett alternativ när du inte har möjlighet till handtvätt.\nstatlink=http://www.livsmedelsverket.se/corona*Läs mer på Livsmedelsverkets webbplatsstatlink\n",
+            "id": 5
+         },
+         {
+            "question": "Kan covid-19 smitta mellan djur och människa och kan mitt husdjur smittas av viruset?",
+            "answer": "\nDet är troligt att några av de första personerna som fick sjukdomen covid-19, blev smittade vid ett besök på en marknad med levande djur i Kina. Det är i dagsläget oklart från vilket djur smittan spreds och hur smittspridningen gick till.\nNågra uppgifter om att smittan kan överföras från människa till husdjur finns inte beskrivna för covid-19.\nLäs mer: statlink=https://www.sva.se/aktuellt/nyheter/det-nya-coronaviruset-ar-en-folkhalsofraga/*Det nya coronaviruset är en folkhälsofråga (SVA)statlink\n",
+            "id": 6
+         },
+         {
+            "question": "Kan smitta överföras från mygg till människa?",
+            "answer": "\nI nuläget finns ingen information som talar för att covid-19 skulle kunna spridas av myggor. Det är ett luftvägsvirus som sprids via droppsmitta.\nLäs mer: statlink=https://www.sva.se/aktuellt/nyheter/det-nya-coronaviruset-ar-en-folkhalsofraga/*Det nya coronaviruset är en folkhälsofråga (SVA)statlink\n",
+            "id": 7
+         },
+         {
+            "question": "I vilka länder pågår det smittspridning?",
+            "answer": "\nVärldshälsoorganisationen WHO förklarade den 11 mars 2020 att covid-19 är en pandemi. Det innebär att sjukdomen finns eller kommer att finnas i alla världsdelar. Sannolikt kommer covid-19 att drabba alla världens länder. Det är därför inte längre relevant att ange i vilka länder det pågår smittspridning.\nBeskedet från WHO innebär ingen skillnad i hur vi på Folkhälsomyndigheten hanterar sjukdomen. Viktiga åtgärder för att förhindra samhällsspridning och skydda riskgrupper görs kontinuerligt. Det innebär heller inte att sjukdomen i sig betraktas som allvarligare.\n",
+            "id": 8
+         },
+         {
+            "question": "Vad innebär det att vi har en samhällsspridning av covid-19 i Sverige?",
+            "answer": "\nDet innebär att det pågår en smittspridning av covid-19 i Sverige där fallen är smittade i Sverige och inte kopplad till importerade fall. Man har alltså inte kunnat härleda källan till smittan till en kontakt med smitta i andra länder. Risknivån höjdes den 10 mars till den högsta: mycket hög risk för samhällspridning i Sverige.\n",
+            "id": 9
+         },
+         {
+            "question": "Behöver jag städa eller hantera mina sopor på något särskilt sätt?",
+            "answer": "\nI ett hushåll där någon smittats av det nya coronaviruset räcker det att man städar så som man gör i normala fall. Det räcker att använda vanliga rengöringsmedel som säljs i butik. Du kan hantera dina sopor, exempelvis använda pappersnäsdukar, som vanligt.\n",
+            "id": 10
+         }
+      ],
+      "id": 4
+   },
+   {
+      "section": "Karantän och avspärrning",
+      "faqs": [
+         {
+            "question": "Vad innebär karantän?",
+            "answer": "\nKarantän är en form av isolering av personer som misstänks bära på en samhällsfarlig sjukdom men som inte är sjuka. Om man misstänker att någon har en samhällsfarlig sjukdom (som covid-19) kan smittskyddsläkaren i regionen besluta att sätta den personen i karantän, till exempel i sin egen bostad. Karantän innebär att man inte får lämna bostaden eller ta emot besök. Besök av till exempel vårdpersonal och socialtjänst är dock tillåtet.\nFör personer som är sjuka kan istället isolering bli aktuellt. Beslut om karantän är alltid individuella och kan överklagas till domstol.\n",
+            "id": 1
+         },
+         {
+            "question": "Kan man sätta en hel stad i karantän?",
+            "answer": "\nNej. Enskilda personer kan sättas i karantän, men inte en hel stad. Däremot finns det möjlighet att spärra av ett begränsat område, läs mer under frågan Vad innebär avspärrning?\n",
+            "id": 2
+         },
+         {
+            "question": "Vad innebär avspärrning?",
+            "answer": "\nMan kan med stöd av smittskyddslagen spärra av ett område på maximalt några kvarter. Avspärrningen innebär bland annat att det blir förbjudet att ta sig in och ut ur området.\nEn avspärrning kan till exempel bli aktuell om man upptäcker att någon eller några personer har insjuknat i en livshotande sjukdom. Då kan man använda avspärrning för att hitta smittkällan och utreda om det finns fler personer inom det avgränsade området som kan ha smittats eller spridit smittan.\nSyftet med bestämmelsen är alltså att säkerställa att smittan inte tar sig ut ur området eller att någon går in och riskerar att smittas. När utredningen är klar och personerna i området är omhändertagna för vård eller har väntat ut inkubationstiden (tiden från det att en person har smittats till dess sjukdomen bryter ut), bör man häva avspärrningen.\n",
+            "id": 3
+         },
+         {
+            "question": "Hur länge kan en avspärrning pågå?",
+            "answer": "\nAvspärrning är en tillfällig åtgärd för att utreda upptäckta sjukdomsfall och smittspridning. En avspärrning kan alltså inte användas för att t.ex. hindra personer från att resa in eller ut ur ett större geografiskt område.\n",
+            "id": 4
+         },
+         {
+            "question": "Vilka regler gäller för att sätta någon i karantän i Sverige?",
+            "answer": "\nEftersom det nya coronaviruset som orsakar sjukdomen covid-19 är klassad som samhällsfarlig, kan smittskyddsläkaren i respektive sjukvårdsregion besluta om karantän för friska personer. Det kan handla om att placera personerna i hemmet, en avgränsad del av en byggnad eller ett område.\nMen att sätta en person i karantän är en kraftfull åtgärd som är noga reglerad i smittskyddslagen. Om en mindre ingripande åtgärd kan få samma effekt, ska smittskyddsläkaren välja den istället. En sådan åtgärd kan t.ex. vara beslut om särskilda hygienrutiner för den smittade personen eller avstängning från arbetet, skolan eller förskolan.\n",
+            "id": 5
+         }
+      ],
+      "id": 5
+   },
+   {
+      "section": "Så kan vi minska smittspridningen",
+      "faqs": [
+         {
+            "question": "Hur långt avstånd bör människor hålla mellan varandra?",
+            "answer": "\nDet är viktigt att visa hänsyn och gott omdöme i mötet med andra människor, vilket innebär att vi ska hålla avstånd till andra på offentliga platser, både inomhus och utomhus. Det finns i dagsläget inga studier som visar någon exakt gräns för vilket avstånd som är säkert, men med tanke på hur droppsmittan sprids skulle ett riktmärke kunna vara minst en armlängds avstånd. En annan anledning till att Folkhälsomyndigheten endast ger ett ungefärligt mått är att verksamheter som restauranger, butiker och andra offentliga platser måste kunna ha en viss flexibilitet för att verksamheten ska fungera.\nCoronaviruset överförs i första hand som kontakt- och droppsmitta från droppar som sprids i luften när någon hostar, nyser eller pratar. Studier som gjorts om infektioner som sprids genom droppsmitta visar att dropparna faller snabbt ner genom luften och når som regel inte längre än någon meter.\nLäs mer statlink=https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/verksamheter/restauranger-och-krogar/fragor-och-svar-om-nya-regler-for-restauranger-krogar-m.m/*Frågor och svar om nya regler för restauranger, krogar m.m.statlink\n",
+            "id": 1
+         },
+         {
+            "question": "Hur skyddar du dig själv och andra?",
+            "answer": "\nVi har alla ett personligt ansvar och en skyldighet att göra vad vi kan för att förhindra smittspridningen av sjukdomen covid-19.\nDet här kan du göra:\nLäs mer: statlink=https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/skydda-dig-och-andra/*Skydda dig själv och andra från smittspridningstatlink\n",
+            "id": 2
+         },
+         {
+            "question": "Vem ska stanna hemma?",
+            "answer": "\nKänner du dig sjuk med symtom som snuva, hosta eller feber ska du låta bli att träffa andra människor. Det gäller även om du bara känner dig lite sjuk. Du ska inte gå till jobbet eller skolan, eller lämna barn på förskolan. Barnet kan fortsatt gå i förskola men någon annan bör lämna barnet. Det är viktigt att inte smitta andra.\n",
+            "id": 3
+         },
+         {
+            "question": "Om en person i familjen är sjuk - måste alla stanna hemma då?",
+            "answer": "\nNej, så länge syskon eller andra familjemedlemmar inte har några symtom kan de göra som vanligt och gå till skolan, förskolan eller jobbet. I familjer eller hushåll där någon är sjuk är det viktigt att vara uppmärksam på symtom.\nTänk på vad du kan göra för att inte sprida smittan vidare: statlink=https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/skydda-dig-och-andra/*Skydda dig själv och andra från smittspridningar.statlink\n",
+            "id": 4
+         },
+         {
+            "question": "Hur länge ska jag stanna hemma?",
+            "answer": "\nStanna hemma så länge du känner dig sjuk. Vänta sedan minst två dagar efter att du blivit frisk och symtomfri, innan du går tillbaka till jobbet, skolan eller förskolan.\nDu som har en konstaterad covid19-infektion ska stanna hemma i sju dagar efter att du insjuknade, du ska även ha varit frisk och symtomfri i två dagar. Du kommer alltså tidigast kunna återgå till jobb/ skola/förskola efter sju dagar.\nDu kan fortsätta att ha torrhosta efter att du blivit helt fri från en covid19-infektion. Du kan då gå tillbaka till jobb/skola/ förskola även om du fortfarande hostar så länge du har varit hemma 7 dagar efter insjuknandet och minst 2 dagar sedan du hade några andra symtom.\nOm jag har haft lukt- och smakbortfall?Studier har visat att lukt- och smakbortfall verkar vara ett ganska vanligt symtom i samband med covid19. Hur vanligt det är som enda symtom, eller när i förloppet det kommer är oklart.\nOm du har haft andra symtom initialt och ett lukt- och smakbortfall som hänger kvar gäller samma som för torrhosta, du ska då stanna hemma sju dagar efter att du insjuknade och du ska även ha varit frisk och symtomfri i två dagar.\nOm du däremot endast haft symtomet lukt- och smakbortfall så rekommenderas du att stanna hemma minst sju dagar efter att du fick det, även om du i övrigt känner dig helt frisk. \nVi uppdaterar kontinuerligt informationen om covid-19 i takt med att ny kunskap om sjukdomen tillkommer.\n",
+            "id": 5
+         },
+         {
+            "question": "Vad gäller för mig som blivit frisk från covid-19?",
+            "answer": "\nI dagsläget är det oklart vilken grad av immunitet genomgången covid-19 infektion, eller påvisade antikroppar, ger. Därför ska personer som blivit friska efter en genomgången covid-19 infektion följa samma rekommendationer som övrig befolkning.\nDu är frisk om det har gått minst sju dagar sedan du blev sjuk och minst 48 timmar sedan du hade några symtom.\n",
+            "id": 6
+         },
+         {
+            "question": "Bör jag som  symtomfri jobba hemma?",
+            "answer": "\nVi har nu en spridning av covid-19 i flera delar av Sverige. Vårt råd är därför att du jobbar hemifrån i den mån det är möjligt, i samråd med din arbetsgivare. Syftet är att minska hastigheten i smittspridningen och att hålla nere antalet personer som behöver sjukhusvård. En alltför snabb ökning av antalet smittade skulle innebära en kraftig och svårhanterlig belastning för sjukvården. Genom en långsammare ökning av antalet smittade får sjukvården större möjlighet att upprätthålla sin verksamhet.\n",
+            "id": 7
+         },
+         {
+            "question": "Hur ska vi ta hand om och skydda personer som är 70 år och äldre?",
+            "answer": "\nDet är viktigt att skydda de äldre från att bli smittade av covid-19. Sedan den 1 april råder därför besöksförbud på samtliga landets äldreboenden för att förhindra spridningen av sjukdomen covid-19.\nHa ingen närkontakt med personer som är 70 år eller äldre om det inte är helt nödvändigt. Stanna hemma när du känner dig sjuk, även om du bara är lite förkyld. Covid-19 kan ge lindriga symtom som liknar en förkylning, så det är viktigt att vara vaksam.\n",
+            "id": 8
+         },
+         {
+            "question": "Jag är 70 år, hur ska jag bete mig för att skydda mig nu när det pågår smittspridning ute i samhället?",
+            "answer": "\nFör att undvika att bli smittad uppmanar vi dig som är 70 år eller äldre att begränsa dina nära kontakter. Du bör låta bli att åka med kollektivtrafiken, exempelvis buss, tåg, tunnelbana och spårvagn, handla i butiker eller vistas i lokaler där det finns många människor samtidigt. Ta istället hjälp av anhöriga eller grannar för att till exempel handla mat, hämta ut mediciner på apoteket eller uträtta andra ärenden.\nDet är vanligt att känna oro, osäkerhet och ensamhet i en situation då man behöver hålla sig från andra människor. Det du kan göra för att det ska kännas bättre är till exempel att gå ut på promenader, men kom ihåg att hålla avstånd till andra. Håll kontakten med dina anhöriga och vänner via telefon, dator och sociala medier.\nTänk på att det här handlar om en begränsad tid. Försök att sysselsätta dig med det du tycker är roligt och stimulerande.\nstatlink=https://www.rodakorset.se/vad-vi-gor/kris-och-katastrof/krisstod/sa-minskar-du-din-oro-vid-en-kris/*Tips och råd för att minska din oro (Röda Korset)statlink\nstatlink=https://mind.se/hitta-hjalp/aldrelinjen/*Ring Äldrelinjen om du behöver prata med någon (MIND)statlink\n",
+            "id": 9
+         },
+         {
+            "question": "Varför ska undervisningen för gymnasieelever och studenter ske på distans?",
+            "answer": "\nVi rekommenderar gymnasieskolor, universitet, högskolor och vuxenutbildning att bedriva undervisning på distans i stället för i skolans lokaler. Rekommendationen gäller från och med den 18 mars.\nVissa undervisningsmoment och examinationer som inte kan genomföras genom distansundervisning kan undantas från rekommendationen. Enskilda elever, studerande och studenter som har särskilda stödbehov ges också undantag för att kunna närvara i skolan för att få rätt resurser och förutsättningar att klara utbildningen.\nGymnasieelever och studenter är inte i behov av omsorg, till skillnad från barn i grundskolan. De högre utbildningarna samlar också elever och studenter från mycket större upptagningsområden än vad grundskolan gör.\nRekommendationen syftar till att bromsa takten i spridningen av covid-19 i samhället, och att därmed avlasta sjukvården och skydda de mest sårbara från att smittas.\n",
+            "id": 10
+         }
+      ],
+      "id": 6
+   },
+   {
+      "section": "Smittskydd och övervakning",
+      "faqs": [
+         {
+            "question": "Hur övervakar ni på Folkhälsomyndigheten spridningen av covid-19?",
+            "answer": "\nVi på Folkhälsomyndigheten använder oss av flera olika övervakningssystem för att följa spridningen av covid-19 i Sverige. Eftersom covid-19 är anmälningspliktig enligt smittskyddslagen skickar läkare och laboratorier löpande in data till oss, som vi analyserar varje dag.\nAndra sätt att samla information är att ta stickprov från patienter med influensasymtom och andra utvalda grupper i samhället. Vi kan också samla in kunskap om sökningar på 1177, sjukvårdsrådgivningens webbplats, och samtal som kommer in till 1177. Insamlade data ger underlag för beslut om åtgärder som minimerar dödlighet, sjuklighet och negativa effekter på samhället. Det gör det också möjligt att följa och utvärdera effekterna av vidtagna åtgärder samt att göra det möjligt att följa och till viss del förutsäga pandemins utveckling.\nVarje vecka skickar vi på Folkhälsomyndigheten ut en statlink=https://www.folkhalsomyndigheten.se/folkhalsorapportering-statistik/statistik-a-o/sjukdomsstatistik/covid-19-veckorapporter/*veckorapport för covid-19statlink (fr.o.m. 2020-03-20). Dessa veckorapporter sammanfattar läget för covid-19, för veckan som har gått.\n",
+            "id": 1
+         },
+         {
+            "question": "Vad innebär det att covid-19 klassas som allmänfarlig och samhällsfarlig sjukdom enligt smittskyddslagen?",
+            "answer": "\nAtt klassa smittan som allmänfarlig och samhällsfarlig stärker den svenska beredskapen. Nu när covid-19 klassas som allmänfarlig och samhällsfarlig smitta, finns möjligheter att besluta om åtgärder som karantän, isolering, hälsoundersökningar vid inresa och avspärrningar av områden. Beroende på vilken åtgärd det gäller, är det antingen smittskyddsläkaren eller vi på Folkhälsomyndigheten som fattar beslut om det.\n",
+            "id": 2
+         },
+         {
+            "question": "Vad innebär smittspårning av personer?",
+            "answer": "\nSmittspårning innebär att den behandlande läkaren är skyldig att ta reda på dels hur en smittad person har blivit smittad, dels vem eller vilka andra som kan vara smittade eller har blivit utsatta för smittan. Smittspårning kan ha en avgörande betydelse för att förhindra smittspridning och minska risken för större utbrott.\n",
+            "id": 3
+         }
+      ],
+      "id": 7
+   },
+   {
+      "section": "Sammankomster",
+      "faqs": [
+         {
+            "question": "Vad gäller för allmänna sammankomster och offentliga tillställningar med fler än 50 deltagare?",
+            "answer": "\nDet är från och med 29 mars förbjudet att anordna allmänna sammankomster och offentliga tillställningar där fler än 50 personer deltar.\nAllmänna sammankomster kan exempelvis vara demonstrationer, föreläsningar, religiösa sammankomster eller teater- och biografföreställningar.\nSom offentliga tillställningar räknas till exempel idrottsevenemang, danstillställningar eller mässor.\nDet är regeringen som har tagit detta beslut i syfte att motverka pandemin.\nOm du har frågor om förbudet eller vill läsa mer kan du vända dig till Polisen.\nstatlink=https://polisen.se/aktuellt/nyheter/2020/mars/ytterligare-begransade-mojligheter-till-allmanna-sammankomster-och-tillstallningar/*Läs mer om förbudet på Polisens webbplatsstatlink\n",
+            "id": 1
+         },
+         {
+            "question": "Vad gäller för andra evenemang såsom fester, bröllop och begravningar?",
+            "answer": "\nFolkhälsomyndigheten publicerade den 1 april föreskrifter och allmänna råd om allas ansvar att förhindra smitta av covid-19. Dessa innebär bland annat att var och en av oss har ett personligt ansvar att medverka till att förhindra smittspridning. Generellt gäller att du bör undvika större sociala sammanhang där flera personer träffas såsom fester, bröllop, begravningar och andra tillställningar. Det är också viktigt att du håller avstånd till andra människor på exempelvis idrottsplatser, gym, köpcentrum, i kollektivtrafiken med mera. Personer som är 70 år och äldre bör begränsa sina nära kontakter.\nLäs mer\nInför alla evenemang färre än 50 deltagare rekommenderar vi att arrangören gör en riskbedömning. statlink=https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/verksamheter/information-till-arrangorer-av-evenemang/*Bedömningen bör göras enligt den modellstatlink som finns på vår webbplats. Gör den för att utvärdera och åtgärda eventuella risker.\nstatlink=https://www.folkhalsomyndigheten.se/publicerat-material/publikationsarkiv/h/hslf-fs-202012/*Folkhälsomyndighetens föreskrifter och allmänna råd om allas ansvar att förhindra smitta av covid-19 m.m.statlink\nstatlink=https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/verksamheter/restauranger-och-krogar/*För restauranger gäller nya regler om att vidta särskilda åtgärder för att minska risken för spridningstatlink av covid-19 från 25 mars.\n",
+            "id": 2
+         },
+         {
+            "question": "Vad gäller för olika verksamheter?",
+            "answer": "\nOlika verksamheter i Sverige är skyldiga att, utifrån Folkhälsomyndighetens eller smittskyddsläkarens rekommendationer, göra vad de kan för att förhindra spridningen av covid-19. Detta kan till exempel innebära att:\n",
+            "id": 3
+         },
+         {
+            "question": "Vad gäller för kollektivtrafik och allmänna färdmedel?",
+            "answer": "\nKollektivtrafik och allmänna färdmedel, omfattas inte av förbudet mot allmänna sammankomster med fler än 50 personer.\nVi har gjort bedömningen att det för närvarande fortfarande är viktigt att kollektivtrafiken fungerar och att friska personer kan åka till jobbet och skolan. De företag som sköter kollektivtrafik och allmänna färdmedel har en skyldighet att:\nRåden gäller för de flesta persontransporterna, dvs. även för till exempel färdtjänst, skolskjuts och sjukresor, men inte för privata resor med egna fordon.\n",
+            "id": 4
+         },
+         {
+            "question": "Vad gäller för handeln?",
+            "answer": "\nAlla verksamheter i Sverige är skyldiga att göra vad de kan för att minska risken för att sjukdomen covid-19 sprids. Det kan till exempel innebära att verksamheterna ska informera allmänheten, undvika att flera personer samlas, markera avstånd i golvet i köer och erbjuda möjlighet till handtvätt med tvål och vatten. Om möjligheten till handtvätt är begränsad kan handsprit vara ett alternativ.\nButiker, köpcentrum och gallerior bör begränsa antalet kunder som vistas i lokalen samtidigt. De bör också ta fram alternativa lösningar till kassaköer eller visa hur långt kunderna kan stå mellan varandra.\nLäs mer: statlink=https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/alla-har-ansvar-att-forhindra-smitta-av-covid-19/*Alla har ansvar att förhindra smitta av covid-19statlink\n",
+            "id": 5
+         },
+         {
+            "question": "Vad gäller för arbetsplatser och skolor?",
+            "answer": "\nArbetsplatser och skolor omfattas inte av förbudet mot allmänna sammankomster och offentliga tillställningar med fler än 50 personer, men man kan tänka på att minimera aktiviteter som samlar många personer.\nArbetsgivare  bör se till att personal, där det är möjligt:\n<strong>För skolor<br> <\/strong>Läs mer:statlink=https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/information-till-skola-och-forskola-om-den-nya-sjukdomen-covid-19/* om att minska risken för smittspridning av coronavirus i skolor.statlink\nLäs mer: statlink=https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/alla-har-ansvar-att-forhindra-smitta-av-covid-19/*Alla har ansvar att förhindra smitta av covid-19statlink\n",
+            "id": 6
+         },
+         {
+            "question": "Kan idrotts- och träningsaktiviteter fortsätta som vanligt?",
+            "answer": "\nIdrotts- och träningsaktiviteter kan fortsätta, men den som ansvarar för träningen måste se till att minska risken för att covid-19 sprids. Idrottsföreningar bör göra en riskbedömning inför olika aktiviteter och vidta försiktighetsåtgärder.\nstatlink=https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/verksamheter/information-till-idrotts--och-traningsanlaggningar/*Se riskbedömningsverktygstatlink\nTräning och aktiviteter utomhus är att föredra och närkontakt mellan idrottsutövare bör undvikas.\nIdrottsföreningar ska utifrån rekommendationer från Folkhälsomyndigheten och smittskyddsläkare säkerställa att de vidtar lämpliga åtgärder för att undvika smittspridning av covid-19.\nGränsen för allmänna sammankomster och offentliga tillställningar är 50 personer. Detta gäller även för idrott- och träningsaktiviteter som exempelvis matcher, träningsmatcher, tävlingar och cuper som innefattar 50 eller fler personer. Detta inkluderar såväl deltagare som publik och arrangörer.\nI enlighet med de allmänna råden avråder Folkhälsomyndigheten från tävlings- och träningsmatcher för vuxna. Barn och ungdomar, födda 2002 eller senare, kan dock genomföra matcher, träningsmatcher och tävlingar under förutsättning att de utgår från den föreskrift och de rekommendationer som Folkhälsomyndigheten har tagit fram.\nDu kan läsa mer i våra statlink=https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/verksamheter/information-till-idrotts--och-traningsanlaggningar/*rekommendationer angående idrott och träningsanläggningar med anledning av covid-19statlink.\nUndvik onödiga resor i samband med idrottsutövande.\nFör idrottsföreningar gäller följande råd:\nGenerella råd till dig som tränar:\nLäs mer: statlink=https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/alla-har-ansvar-att-forhindra-smitta-av-covid-19/*Alla har ansvar att förhindra smitta av covid-19statlink\n",
+            "id": 7
+         },
+         {
+            "question": "Vad gäller för hotell, vandrarhem och campingplatser?",
+            "answer": "\nAlla verksamheter i Sverige är skyldiga att, utifrån Folkhälsomyndighetens eller smittskyddsläkarens rekommendationer, vidta åtgärder för att minska risken för smittspridning. Detta kan till exempel innebära att begränsa antalet gäster som vistas samtidigt i en lokal. Hotell, vandrarhem och campingplatser bör också erbjuda alternativa lösningar till köer vid exempelvis incheckning, eller anvisa hur långt gästerna kan stå mellan varandra. Verksamheter bör också se till att personal och besökare har möjlighet att tvätta händerna med tvål och vatten samt erbjuda handsprit. Olikheter mellan anläggningarna, gällande till exempel storlek och läge, innebär att de kan komma att agera olika. Smittskyddsläkaren kan efter samråd med kommunen fatta beslut om att förbjuda verksamheter som inte uppfyller kraven.\nOm verksamheten har restaurang, bar, café eller liknande, omfattas de av de nya reglerna för restauranger och krogar. Smittskyddsläkaren kan då efter samråd med kommunen fatta beslut om att stänga dessa delar av verksamheten, om de inte uppfyller kraven.\nDet är viktigt att människor känner till och följer Folkhälsomyndighetens nya allmänna råd. Enligt de allmänna råden bör större sociala sammanhang undvikas (läs mer nedan). För besökare gäller att tänka över om vistelsen på hotell, vandrarhem eller campingplats verkligen är nödvändig. Alla behöver hjälpa till att dämpa spridningstakten av covid-19 i Sverige och avstå från onödiga resor. Hotell, vandrarhem och campingplatser kan utgöra en särskild problematik då det innebär att många från olika delar av landet samlas.\nLäs mer:\nstatlink=https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2020/april/nya-allmanna-rad-hall-avstand-och-ta-personligt-ansvar/*Nya allmänna råd – håll avstånd och ta personligt ansvarstatlink (nyhet 1 april)\nstatlink=https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2020/mars/nya-regler-for-restauranger-och-krogar/*Nya regler för restauranger och krogarstatlink (Nyhet 24 mars 2020)\nstatlink=https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/verksamheter/restauranger-och-krogar/fragor-och-svar-om-nya-regler-for-restauranger-krogar-m.m/*Frågor och svar om nya regler för restauranger, krogar m.m.statlink\nstatlink=https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/alla-har-ansvar-att-forhindra-smitta-av-covid-19/*Alla har ansvar att förhindra smitta av covid-19statlink\n",
+            "id": 8
+         },
+         {
+            "question": "Vad innebär de nya reglerna för krögare och caféägare?",
+            "answer": "\nDu som driver en restaurang, bar eller ett café måste göra det du kan för att förhindra att sjukdomen covid-19 sprids. Det innebär att du måste se till att det inte förekommer någon trängsel mellan dina gäster i köer, vid bord, bufféer eller bardiskar. Restauranggästerna ska kunna hålla ett avstånd till varandra.\nDina gäster ska sitta vid ett bord när de äter och dricker, de får inte stå vid ståbord eller bardiskar. Personalen ska helst bära ut beställningarna. Om det inte leder till trängsel eller köer är det möjligt att låta besökarna beställa och hämta sin mat och dryck själva. Hämtmat kan överlämnas som vanligt, så länge det går att göra utan trängsel.\nDu som ansvarar för verksamheten måste också se till att det finns rutiner som gör risken för smittspridning så liten som möjligt. Det kan exempelvis innebära att du behöver ta fram interna riktlinjer om att personal och gäster ska ha möjlighet att tvätta händerna med tvål och rinnande vatten.\nstatlink=https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/verksamheter/restauranger-och-krogar/*Läs om de nya reglerna som gäller från och med 25 marsstatlink\nstatlink=https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/verksamheter/restauranger-och-krogar/fragor-och-svar-om-nya-regler-for-restauranger-krogar-m.m/*Frågor och svar om nya regler för restauranger, krogar m.m.statlink\n",
+            "id": 9
+         }
+      ],
+      "id": 8
+   },
+   {
+      "section": "Information till resenärer",
+      "faqs": [
+         {
+            "question": "Vad gäller vid resa inom Sverige?",
+            "answer": "\nVi har en samhällspridning i allt fler delar av Sverige. Därför rekommenderar vi att man ska tänka igenom om resan är nödvändig att genomföra. Alla behöver hjälpa till att dämpa spridningstakten av covid-19 i Sverige.\nDen som är sjuk ska inte resa alls och riskgrupper ska särskilt överväga att resa eller ta emot besök. Till riskgrupperna hör främst personer som är 70 år och äldre, och personer med en underliggande sjukdom, t.ex. hjärt- och kärlsjukdom, lungsjukdom eller diabetes.\nFår vi en geografisk spridning över större delar av landet riskerar vi att hamna i ett läge där resurser inom exempelvis hälso- och sjukvården är svåra att omfördela. Det är viktigt att tänka på att man ska kunna ta hand om sig själv om man skulle insjukna på sitt resmål. Behöver man hjälp lokalt måste man vara medveten om att det kan finnas begränsat med resurser. Man bör också kunna ta sig hem själv på ett säkert sätt, utan att riskera att smitta andra, om man insjuknar på besöksorten, alternativt att man har möjlighet till isolering.\nUtöver detta gäller de tidigare rekommendationerna: statlink=https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/skydda-dig-och-andra/*Skydda dig själv och andra från smittspridningstatlink\n",
+            "id": 1
+         },
+         {
+            "question": "Vad ska jag tänka på när jag åker tåg, buss och taxi?",
+            "answer": "\nNär du åker tåg, buss och taxi, följ alltid våra råd om hur du skyddar dig själv och andra från smittspridning. Stanna hemma om du är sjuk, tvätta händerna ofta, hosta och nys i armvecket, undvik att röra vid ögon, näsa och mun.\nDu kan även tänka på att hålla ett avstånd till andra resenärer. Läs webbsidorna från de företag som sköter tåg, buss och taxi om de har särskilda rutiner.\nDet är ännu inte helt klarlagt om så kallad indirekt kontaktsmitta, det vill säga spridning via droppar som landat på ytor eller föremål, har någon betydelse för spridningen av covid-19.\nTvätta alltid händerna efter resa. Handsprit kan vara ett alternativ när du inte har möjlighet till handtvätt.\nstatlink=https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/skydda-dig-och-andra/*Läs mer på vår webbsida Skydda dig och andra från smittspridningstatlink\n",
+            "id": 2
+         },
+         {
+            "question": "Vilka råd finns det för resa till andra länder?",
+            "answer": "\nDet är statlink=https://www.regeringen.se/sveriges-regering/utrikesdepartementet/*Utrikesdepartementetstatlink (UD) som avråder från resor till andra länder.\nUD avråder från icke nödvändiga resor till alla länder med anledning av den omfattande spridningen av det nya coronaviruset och den snabbt föränderliga och osäkra situationen som råder för resande. I länder eller områden där UD sedan tidigare avråder från resor, gäller dessa beslut. Beslut om avrådan togs 14 mars 2020. Avrådan gäller till och med 15 juni, varefter en ny bedömning kommer att göras.\nBesök UD:s webbplats för att få den senaste informationen om resor till utlandet, samt information om aktuella händelser i utlandet. Du kan även hitta information på statlink=https://www.swedenabroad.se/sv/om-utlandet-f%C3%B6r-svenska-medborgare/reseinformation/nya-coronaviruset/*UD:s webbplats om nya coronavirusetstatlink. Om du inte hittar svar på dina frågor där, kan du kontakta UD:s konsulära enhet på telefon 08-405 50 05, eller mejla till statlink=mailto:ud-kc-resefragor@gov.se*ud-kc-resefragor@gov.sestatlink.\nEn formell avrådan från att resa till ett land eller region kan göras av UD. Skälen till en sådan avrådan kan till exempel vara politiska oroligheter, våldsamheter, specifika hot men även risk för allvarlig smittspridning. Vi har tät kontakt med UD i frågor som rör smittspridning och konsekvenserna av smittspridning.\nUD kan avråda från antingen icke nödvändiga resor, vilket innebär turist- och besöksresor, eller från alla resor, vilket även inkluderar arbetsresor och alla andra resor. Det finns också situationer där UD inte bara avråder från resor utan även uppmanar svenska medborgare att lämna landet.\nVi på Folkhälsomyndigheten ger inte reserekommendationer för enskilda personer eller grupper. Däremot kan vi ge UD rekommendationer, baserade på den information som vi som expertmyndighet har tillgång till i vårt internationella samarbete och via kontakterna med exempelvis WHO.\nDu som resenär behöver göra en egen bedömning av ditt resande utifrån behovet av att resa och den information om smittspridningen som finns. Information finns tillgänglig på vår webbplats, men även resmålets egna myndigheter eller andra webbplatser tillhandahåller officiell information. Exempel på sådana webbplatser är WHO:s och ECDC:s webbplatser, som redovisar siffror från respektive land med någon dags eftersläpning från det att länderna officiellt rapporterar.\nPå International Air Transport Associations (IATA) webbplats finns reseinformation från olika länder sammanställd men kontrollera alltid med det land du planerar att resa till eller via. Om du har en nära förestående resa bör du ta kontakt med din researrangör alternativt ditt försäkringsbolag om du har frågor om av- eller ombokning.\nFölj också läget om covid-19 på vår webbplats under statlink=https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2020/*Nyheterstatlink samt statlink=https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/reserekommendationer-fran-ud/*Reserekommendationer från UDstatlink.\n",
+            "id": 3
+         },
+         {
+            "question": "Vad gäller för vistelse i fjällen?",
+            "answer": "\nTänk över om resan verkligen är nödvändig, alla ska hjälpa till att dämpa spridningstakten av covid-19 i Sverige och avstå från onödiga resor. Skidanläggningar utgör en särskild problematik då det innebär att många från olika delar av landet samlas.\nArrangörerna vid skidanläggningarna har redan vidtagit åtgärder för att minska risken för trängsel i liftköer och liknande, och vistelse utomhus innebär en mindre risk för smitta än vistelse inomhus. Varje anläggning har rätten och skyldigheten att fatta beslut kring sin verksamhet, i enlighet med myndigheternas beslut och rekommendationer. Olikheter mellan anläggningarna, gällande till exempel storlek och läge, innebär att de kan komma att agera olika.\nRestauranger och after-ski-verksamhet på orterna omfattas av de nya reglerna från Folkhälsomyndigheten för restauranger och krogar  och de allmänna råd som Folkhälsomyndigheten gick ut med 1 april 2020.\nLäs mer:\nstatlink=https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2020/april/nya-allmanna-rad-hall-avstand-och-ta-personligt-ansvar/*Nya allmänna råd- håll avstånd och ta personligt ansvarstatlink (nyhet 1 april)\nstatlink=https://www.slao.se/information-kring-coronaviruset-och-svenska-skidanlaggningar/31-mars-slao-informerar/*Information kring coronaviruset SLAO: (nyhet 31 mars)statlink\nstatlink=https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2020/mars/nya-regler-for-restauranger-och-krogar/*Nya regler för restauranger och krogarstatlink (Nyhet 24 mars 2020)\n",
+            "id": 4
+         }
+      ],
+      "id": 9
+   },
+   {
+      "section": "Barn",
+      "faqs": [
+         {
+            "question": "Hur drabbas barn av covid-19?",
+            "answer": "\nDen förhållandevis lilla andelen barn som rapporteras sjuka i covid-19 verkar framförallt få mycket milda symtom. Det finns i dag liten kunskap om hur stor smittspridningen är mellan barn, och det finns fortfarande inga rapporter som tyder på en mer omfattande smittspridning i barngrupper.\nÄven om barn har milda symtom kan de, liksom vuxna med symtom, smitta andra. Det är därför viktigt att undvika att barn som är sjuka träffar andra än familjen i samma hushåll, framförallt om de är förkylda eller har feber. Det är extra viktigt att de undviker att träffa äldre eller personer i riskgrupperna.\nKunskaper om det nya coronaviruset tillkommer varje dag och vi följer kunskapsläget noga.\nstatlink=https://www.bris.se/for-vuxna-om-barn/just-nu/att-prata-med-barn-om-corona-viruset/*BRIS har informationstatlink om hur du som förälder kan prata med ditt barn om oro för covid-19.\n",
+            "id": 1
+         },
+         {
+            "question": "Kan barn och ungdomar vaccineras som vanligt enligt vaccinationsprogrammet under pågående utbrott av covid-19?",
+            "answer": "\nJa, barn och ungdomar kan vaccineras enligt det statlink=https://www.folkhalsomyndigheten.se/smittskydd-beredskap/vaccinationer/vaccinationsprogram/allmant-program-for-barn/*allmänna vaccinationsprogrammet för barnstatlink, även under pågående utbrott av covid-19. Vid en akut infektionssjukdom med feber, snuva eller halsont (t.ex. vid covid-19) bör vaccinationen som alltid skjutas upp till ett senare tillfälle.\n",
+            "id": 2
+         },
+         {
+            "question": "Varför stänger vi inte för- och grundskolorna i Sverige?",
+            "answer": "\nVi bedömer att det i nuläget inte är en betydelsefull åtgärd att stänga alla skolor i Sverige. Det finns inga vetenskapliga studier som visar att en sådan åtgärd skulle få någon större betydelse. Det finns heller inte några uppgifter som pekar på någon större spridning av covid-19 i skolor någonstans i världen.\nAtt stänga för- och grundskolor skulle dessutom få negativa konsekvenser för resten av samhället. Exempelvis skulle många föräldrar, som arbetar inom vården och andra samhällsviktiga funktioner, behöva stanna hemma med sina barn. Det skulle också kunna leda till att sårbara grupper, som mor- och farföräldrar, hjälper till att ta hand om barnen.\nFör många barn är även skolan en viktig fast punkt i tillvaron. Innan en skola stängs måste man därför ha en plan och veta vart barnen istället ska ta vägen. Det är dock av vikt att barn och skolpersonal som har begynnande symtom av sjukdom eller är sjuka stannar hemma från skolan.\nRiksdagen har beslutat om en ny lag som gör det möjligt att tillfälligt stänga skolverksamheter: lagen (2020:148) om tillfällig stängning av verksamheter på skolområdet vid extraordinära händelser i fredstid. Det innebär att regeringen eller en skolas huvudman har möjlighet att under vissa förutsättningar stänga skolor. Det finns också en ny förordning (2020:115) som ger huvudmannen rätt att vidta vissa åtgärder för att se till att eleverna får den utbildning de har rätt till även när skolorna är stängda.\n",
+            "id": 3
+         },
+         {
+            "question": "Hur pratar man med barn om det nya coronaviruset?",
+            "answer": "\nI tider av oro och osäkerhet påverkas barn på olika sätt. Barn kan vara oroliga för olika saker – att de själva eller familjemedlemmar ska bli sjuka eller dö, att föräldrar ska bli av med sina jobb, att familjen ska påverkas ekonomiskt eller att de inte ska få gå till skolan. Det är viktigt att vuxna ger barn trygghet, är uppmärksamma och lyssnar om barn vill prata om det som händer i vårt samhälle.\nLäs mer om hur du kan prata med barn om coronaviruset:\nstatlink=https://www.krisinformation.se/artiklar/sa-pratar-du-med-barn-om-coronaviruset*Så pratar du med barn om coronaviruset (Krisinformation.se)statlink\nstatlink=https://www.bris.se/for-vuxna-om-barn/just-nu/att-prata-med-barn-om-corona-viruset/*Att prata med barn om coronaviruset (BRIS)statlink\nstatlink=https://www.raddabarnen.se/rad-och-kunskap/coronaviruset-tips-rad/bra-att-kanna-till-om-du-ar-orolig-for-corona/*Bra att känna till om du är orolig för coronaviruset (Rädda barnen)statlink\n",
+            "id": 4
+         }
+      ],
+      "id": 10
+   },
+   {
+      "section": "Övriga frågor",
+      "faqs": [
+         {
+            "question": "Vad är en pandemi?",
+            "answer": "\nEn pandemi innebär en omfattande spridning av en helt ny typ av smittsam sjukdom till alla kontinenter i världen. Vid en pandemi kommer sjukdomen med stor sannolikhet påverka stora delar av vårt samhälle och världens befolkning.\nDet är WHO som avgör om en smittspridning bedöms vara en pandemi. Den 11 mars 2020 bedömde WHO att covid-19 är en pandemi. Deras bedömning är baserad på sjukdomens aktuella och potentiella utbredning på global nivå.\nI Sverige är det vi på Folkhälsomyndigheten som har ansvaret för att samordna beredskapen mot allvarliga hälsohot enligt IHR (Internationella hälsoreglementet). Vår myndighet är utsedd till nationell kontaktpunkt av regeringen och har en rapporteringsskyldighet till WHO.\nstatlink=https://www.folkhalsomyndigheten.se/smittskydd-beredskap/krisberedskap/ihr-internationella-halsoreglementet/*Läs mer om IHR (Internationella hälsoreglementet)statlink\nstatlink=https://www.folkhalsomyndigheten.se/publicerat-material/publikationsarkiv/p/pandemiberedskap-hur-vi-forbereder-oss-ett-kunskapsunderlag/*Läs mer om pandemiberedskapstatlink\n",
+            "id": 1
+         },
+         {
+            "question": "Det nya coronaviruset sprids i första hand som en direkt kontakt- och droppsmitta, vad skiljer en droppsmitta från en luftburen smitta?",
+            "answer": "\nDroppsmitta innebär att smittan överförs via droppar som sprids i luften när någon hostar, nyser eller kräks. Dropparna faller snabbt ner genom luften och når som regel inte längre än någon meter. En del av dropparna, så kallade aerosoler, är så små att de följer med luftströmmar något längre. Både större droppar och aerosoler kan smitta den som andas in dem. Viruset som orsakar sjukdomen covid-19 sprids i första hand som kontakt- och droppsmitta och i vissa fall även som aerosol.\nLuftburen smitta utgörs ofta av viruspartiklar som förökar sig i blåsor på huden och virvlar upp i luften. Luftburen smitta kan färdas långa sträckor och ses exempelvis vid mässling och vattkoppor. Även mycket små intorkade droppar kan, om de blir tillräckligt många och håller sig kvar i luften, orsaka luftburen smitta för den som andas in dem. Luftburen smitta utgör en mindre risk utomhus och på platser med god luftomsättning, där dropparna snabbt späds ut.\n",
+            "id": 2
+         },
+         {
+            "question": "Måste jag följa ett allmänt råd eller en rekommendation som Folkhälsomyndigheten har gått ut med?",
+            "answer": "\nBåde ja och nej.\nAllmänt rådEtt allmänt råd är inte bindande, utan en slags rekommendation för hur du kan göra för att uppfylla det som står i en lag, förordning eller föreskrift.\nDu måste inte göra exakt som det allmänna rådet säger. Men väljer du att göra på ett annat sätt, måste du visa att du uppfyller det som står i den bindande regeln. Vi på Folkhälsomyndigheten har till exempel tagit fram allmänna råd om covid-19 men även om bassängbad och buller inomhus.\nRekommendationEn rekommendation är varken bindande eller kopplad till en bindande regel (till skillnad från ett allmänt råd). Däremot bygger en rekommendation på all den kunskap som finns inom ett visst ämne. Det är därför en god idé att följa en rekommendation som kommer från en myndighet.\n",
+            "id": 3
+         }
+      ],
+      "id": 11
+   }
+]
