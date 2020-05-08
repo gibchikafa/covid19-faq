@@ -31,7 +31,11 @@ steps:
 
 - task: PublishBuildArtifacts@1
   inputs:
-    PathtoPublish: '- task: AppCenterDistribute@3
+    PathtoPublish: 'android/app/build/outputs/apk/release'
+    ArtifactName: 'drop'
+    publishLocation: 'Container'
+    
+- task: AppCenterDistribute@3
   inputs:
     serverEndpoint: 'VSAC'
     appSlug: 'gchikafa/Covid19-FAQs'
